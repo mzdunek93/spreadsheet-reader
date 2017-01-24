@@ -1,20 +1,21 @@
 {
-	"name": "mzdunek93/spreadsheet-reader",
+	"name": "nuovo/spreadsheet-reader",
 	"description": "Spreadsheet reader library for Excel, OpenOffice and structured text files",
 	"keywords": ["spreadsheet", "xls", "xlsx", "ods", "csv", "excel", "openoffice"],
-	"homepage": "https://github.com/mzdunek93/spreadsheet-reader",
+	"homepage": "https://github.com/nuovo/spreadsheet-reader",
 	"version": "0.5.11",
 	"time": "2015-04-30",
 	"type": "library",
 	"license": ["MIT"],
 	"authors": [
 		{
-			"name": "Michał Zdunek",
-			"email": "mzdunek93@gmail.com"
+			"name": "Martins Pilsetnieks",
+			"email": "pilsetnieks@gmail.com",
+			"homepage": "http://www.nuovo.lv/"
 		}
 	],
 	"support": {
-		"email": "mzdunek93@gmail.com"
+		"email": "spreadsheet-reader@nuovo.lv"
 	},
 	"require": {
 		"php": ">= 5.3.0",
